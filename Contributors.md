@@ -138,6 +138,7 @@
 - [saitejaroyal-tech](https://github.com/saitejaroyal-tech)
 - [Kailash Parihar](https://github.com/thekailashparihar)
 - [Hasindu Udara](https://github.com/hasinduudara)
+- [Marj Atrasado]
 - [Bruno Masciotta](https://github.com/masciotta02)
 - [Darpan Baviskar](https://github.com/DarpanBaviskar1)
 - [navadeep basavoju](https://github.com/navadeepbasavoju)
